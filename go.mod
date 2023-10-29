@@ -1,1 +1,1 @@
-module github.com/KrxkGit/LearnGo
+module github.com/krxkgit/learngo

@@ -1,7 +1,9 @@
 // Lissajous generates GIF animations of random Lissajous figures.
 package main
 
-import "HelloWorld/KFlag"
+import (
+	"github.com/KrxkGit/HelloWorld/KFlag"
+)
 
 //var palette = []color.Color{color.White, color.Black}
 //

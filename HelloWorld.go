@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/KrxkGit/HelloWorld/KFlag"
+	"github.com/KrxkGit/LearnGo/KFlag"
 )
 
 //var palette = []color.Color{color.White, color.Black}

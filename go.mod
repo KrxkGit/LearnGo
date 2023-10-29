@@ -1,1 +1,1 @@
-module github.com/KrxkGit/HelloWorld
+module github.com/KrxkGit/LearnGo

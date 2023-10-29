@@ -1,1 +1,1 @@
-module HelloWorld
+module github.com/KrxkGit/HelloWorld
